@@ -80,3 +80,30 @@ Vercel
 - Family Notifications
 - Emergency Alerts
 - Medicine Refill Prediction
+
+
+# Software Requirement Specification
+
+## Users
+
+- Patient
+- Family Member
+- Administrator
+
+## Functional Requirements
+
+1. User Registration
+2. User Login
+3. Add Medicines
+4. Update Medicines
+5. Delete Medicines
+6. Voice Reminder
+7. AI Medicine Chatbot
+8. View Medicine History
+
+## Non Functional Requirements
+
+- Secure Login
+- Fast Performance
+- Responsive UI
+- Easy Navigation
